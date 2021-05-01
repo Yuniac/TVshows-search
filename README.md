@@ -7,4 +7,4 @@ Right now the application only supports searching using tv shows names and it wi
 In the future I would like to add:
 1. The ability to search by other methods: year of release, episode name, actors and so on.
 1. The ability to search for Movies as well.
-2. Perhaps a better UI/UX, I'm not so good at it :).
+2. Perhaps a better UI/UX, I'm not so good at it :)
