@@ -32,7 +32,6 @@ function getShow() {
         })
         .then(jsonData => {
             displayShow(jsonData); //this "json Data is later referred to as "shows" for clarity"
-            console.log(jsonData);
         })
         .catch(e => {
             console.log(e);
