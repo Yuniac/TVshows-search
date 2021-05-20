@@ -23,7 +23,7 @@ form.addEventListener("submit", (e) => {
 
 
 // calling the API
-const url = "http://api.tvmaze.com/search/shows?q=";
+const url = "https://api.tvmaze.com/search/shows?q=";
 
 function getShow() {
     fetch(url + query)
